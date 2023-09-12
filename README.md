@@ -69,19 +69,41 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![Screenshot 2023-08-24 083338](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/ea83a7a8-d8de-45bf-8bb4-4e410aba1220)
+## Head
 
-![Screenshot 2023-08-24 083348](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/8a06990e-2aa8-4486-aa6e-103e2c6b8b06)
+![Screenshot 2023-09-12 153046](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/6575f437-5692-44f0-8989-281e27e5307c)
 
-![Screenshot 2023-08-24 083355](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/09697b6e-9402-483e-b4a2-447821aa0b30)
+## Tail
 
-![Screenshot 2023-08-24 083406](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/6ed46820-75d0-4ba4-8ef9-0bef44e85524)
+![Screenshot 2023-09-12 153120](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/77cf9b37-7d29-44e2-9f20-38c3338903e2)
 
-![Screenshot 2023-08-24 083414](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/c75e8fd6-eff8-44a5-9189-ad5d37d8fd8a)
+## Array value of x
 
-![Screenshot 2023-08-24 083422](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/600f5a4d-a802-41d0-954d-5665ea45c9f1)
+![Screenshot 2023-09-12 153157](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/1ebc8a32-35c5-43fa-a694-760cec016eed)
 
-![Screenshot 2023-08-24 083429](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/45a6a1f6-6acf-4112-aa9d-3b134905317b)
+## Array value of y
+
+![Screenshot 2023-09-12 153226](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/986414f9-4e9b-43cb-95fd-64290280189d)
+
+## Values of y prediction
+
+![Screenshot 2023-09-12 153307](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/1e5d184b-aea6-4d0f-a3f6-8110db3bcaab)
+
+## Y test
+
+![Screenshot 2023-09-12 153342](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/c5f8246f-47ff-4e5d-9396-41e651150136)
+
+## Training set graph
+
+![Screenshot 2023-09-12 153420](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/acffa966-6c09-4b44-a724-7a04f00cf048)
+
+## Test set graph
+
+![Screenshot 2023-09-12 153456](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/4e4ca144-0a35-482b-bfcf-571eee61ec72)
+
+## Valus of MSE,MAE,RMSE
+
+![Screenshot 2023-09-12 153521](https://github.com/anbuselvamA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559871/5c53c794-9869-4973-bee3-8bec17855077)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
